@@ -1,0 +1,9 @@
+.view {
+	background: #eee;
+	padding: 15px;
+	border-radius: 10px;
+}
+	.view p { 
+		margin: 10px; 
+		font-size: 14px;
+	}
